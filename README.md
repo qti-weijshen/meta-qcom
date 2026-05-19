@@ -59,10 +59,10 @@ Please follow the instructions below for a KAS-based build. The KAS tool offers
 an easy way to setup bitbake based projects. For more details, visit the
 [KAS documentation](https://kas.readthedocs.io/en/latest/index.html).
 
-1. Install kas tool
+1. Install kas tool with version4.7
 
     ```bash
-    sudo pip3 install kas
+    sudo pip3 install kas==4.7
     ```
 
 2. Clone meta-qcom layer
